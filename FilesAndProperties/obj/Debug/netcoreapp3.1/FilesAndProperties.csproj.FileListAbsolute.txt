@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\FilesAndProperties\FilesAndProperties\bin\Debug\netcoreapp3.1\FilesAndProperties.exe
+C:\Users\julia.voronetskaja\source\repos\FilesAndProperties\FilesAndProperties\bin\Debug\netcoreapp3.1\FilesAndProperties.deps.json
+C:\Users\julia.voronetskaja\source\repos\FilesAndProperties\FilesAndProperties\bin\Debug\netcoreapp3.1\FilesAndProperties.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\FilesAndProperties\FilesAndProperties\bin\Debug\netcoreapp3.1\FilesAndProperties.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\FilesAndProperties\FilesAndProperties\bin\Debug\netcoreapp3.1\FilesAndProperties.dll
+C:\Users\julia.voronetskaja\source\repos\FilesAndProperties\FilesAndProperties\bin\Debug\netcoreapp3.1\FilesAndProperties.pdb
+C:\Users\julia.voronetskaja\source\repos\FilesAndProperties\FilesAndProperties\obj\Debug\netcoreapp3.1\FilesAndProperties.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\FilesAndProperties\FilesAndProperties\obj\Debug\netcoreapp3.1\FilesAndProperties.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\FilesAndProperties\FilesAndProperties\obj\Debug\netcoreapp3.1\FilesAndProperties.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\FilesAndProperties\FilesAndProperties\obj\Debug\netcoreapp3.1\FilesAndProperties.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\FilesAndProperties\FilesAndProperties\obj\Debug\netcoreapp3.1\FilesAndProperties.dll
+C:\Users\julia.voronetskaja\source\repos\FilesAndProperties\FilesAndProperties\obj\Debug\netcoreapp3.1\FilesAndProperties.pdb
+C:\Users\julia.voronetskaja\source\repos\FilesAndProperties\FilesAndProperties\obj\Debug\netcoreapp3.1\FilesAndProperties.genruntimeconfig.cache
